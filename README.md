@@ -202,10 +202,12 @@ If you use this code, models, or dataset, please cite:
 
 ```bibtex
 @misc{equifashion2025,
-  title        = {EquiFashion: Hybrid GAN-Diffusion Balancing Diversity-Fidelity for Fashion Design Generation},
-  author       = {Nguyen Dinh Hieu and Tran Minh Khuong and Phan Duy Hung},
-  year         = {2025},
-  howpublished = {\url{https://huggingface.co/NguyenDinhHieu/EquiFashionModel}}
+  title={EquiFashion: Hybrid GAN–Diffusion Balancing Diversity–Fidelity for Fashion Design Generation},
+  author={Tran Minh Khuong and Nguyen Dinh Hieu and Phan Duy Hung},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  year={2026},
+  organization={FPT University, Hanoi}
+}
 }
 ```
 
