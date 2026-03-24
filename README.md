@@ -10,6 +10,12 @@ Code and model assets: [Hugging Face - NguyenDinhHieu/EquiFashionModel](https://
 
 ---
 
+## 📄 Paper
+
+- [Official Paper]()
+
+---
+
 ## Overview
 
 EquiFashion is a hybrid GAN-Diffusion framework for controllable fashion image generation.  
