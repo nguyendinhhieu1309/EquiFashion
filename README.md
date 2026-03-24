@@ -196,25 +196,6 @@ The app provides draft generation and attribute editing workflows with pose/mask
 
 ---
 
-## Reported Results (from project manuscript)
-
-Representative values reported for EquiFashion:
-
-- **EquiFashion-DB**: FID 10.3, IS 7.8, Coverage 0.87, CLIP-S 0.315
-- Strong gains over diffusion baselines on semantic consistency and structure preservation.
-
-Please refer to the manuscript tables/figures for full benchmark details and protocol.
-
----
-
-## Limitations and Current Status
-
-- This repository is an active research codebase; modules may evolve with ongoing experiments.
-- Some components are lightweight/pragmatic implementations intended to keep end-to-end training feasible.
-- Final production evaluation should follow a fixed seed protocol and consistent hardware/software stack.
-
----
-
 ## Citation
 
 If you use this code, models, or dataset, please cite:
