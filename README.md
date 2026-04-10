@@ -144,6 +144,7 @@ If needed, adjust paths in `utils/config.py`.
 ---
 
 ## Data Preparation
+Download data at: [here](https://huggingface.co/datasets/NguyenDinhHieu/EquiFashion-DB)
 
 Default dataset root in code:
 
