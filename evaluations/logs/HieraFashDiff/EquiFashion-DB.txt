@@ -1,0 +1,4 @@
+=== Metrics ===
+FID: 13.64
+Coverage: 0.76
+CLIP-S: 30.75
