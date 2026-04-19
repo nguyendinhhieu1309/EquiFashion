@@ -213,7 +213,7 @@ If you use this code, models, or dataset, please cite:
   author={Tran Minh Khuong and Nguyen Dinh Hieu and Phan Duy Hung},
   booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
   year={2026},
-  organization={FPT University, Hanoi}
+  organization={FPT University, VietNam}
 }
 }
 ```
