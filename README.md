@@ -51,7 +51,7 @@ To support robust evaluation, the project introduces EquiFashion-DB, a multimoda
 ## Pipeline
 
 **EquiFashion pipeline overview.** The framework includes:
-1) multimodal conditioning parsing (text, pose, sketch/fabric cues),
+1) multimodal conditioning parsing (text, pose),
 2) GAN-based latent ideation for style exploration,
 3) diffusion-based refinement for high-fidelity reconstruction,
 4) structural semantic consensus for part-level alignment, and
