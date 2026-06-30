@@ -4,7 +4,7 @@
 
 Nguyen Dinh Hieu (ORCID: 0009-0002-6683-8036), Tran Minh Khuong, Phan Duy Hung (ORCID: 0000-0002-6033-6484)  
 FPT University, Hanoi, Vietnam / Quantum AI & Cyber Security Institute, FPT Corporation, Hanoi, Vietnam
-`hieundhe180318@fpt.edu.vn`, `khuongtmhe180089@fpt.edu.vn`,`minhndhhe182227@fpt.edu.vn`, `nhi.nichole.1907@gmail.com`, `hungpd2@fe.edu.vn`
+- `hieundhe180318@fpt.edu.vn`, `khuongtmhe180089@fpt.edu.vn`,`minhndhhe182227@fpt.edu.vn`, `nhi.nichole.1907@gmail.com`, `hungpd2@fe.edu.vn`
 
 Code and model assets: [Hugging Face - NguyenDinhHieu/EquiFashionModel](https://huggingface.co/NguyenDinhHieu/EquiFashionModel)
 
