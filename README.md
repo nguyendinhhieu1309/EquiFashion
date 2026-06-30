@@ -12,7 +12,7 @@ Code and model assets: [Hugging Face - NguyenDinhHieu/EquiFashionModel](https://
 
 ## 📄 Paper
 
-- [Official Paper]()
+- [Official Paper](https://doi.org/10.1007/978-981-92-1926-1_15)
 
 ---
 
@@ -210,10 +210,10 @@ If you use this code, models, or dataset, please cite:
 ```bibtex
 @misc{equifashion2025,
   title={EquiFashion: Hybrid GAN–Diffusion Balancing Diversity–Fidelity for Fashion Design Generation},
-  author={Tran Minh Khuong and Nguyen Dinh Hieu and Phan Duy Hung},
+  author={Nguyen Dinh Hieu and Tran Minh Khuong and Phan Duy Hung},
   booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
   year={2026},
-  organization={FPT University, VietNam}
+  organization={FPT University, VietNam / Quantum AI & Cyber Security Institute, FPT Corporation, Vietnam}
 }
 }
 ```
